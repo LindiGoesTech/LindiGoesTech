@@ -20,7 +20,7 @@ Hi! I'm Lindi — an aspiring cybersecurity specialist currently training full-t
 ## 🛠️ Projects & Labs
 
 
-_(More coming soon – I'm always learning and building!)_
+_(Coming soon – I'm always learning and building!)_
 
 ---
 
